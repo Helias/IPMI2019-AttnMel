@@ -26,7 +26,7 @@ If you use the code for your own reasearch, please cite the following paper :)
   organization={Springer}  
 }  
 
-[Project webpage](https://saoyan.github.io/posts/2019/03/07)   
+[Project webpage](https://saoyan.github.io/projects/2019-03-07-attention-skin-lesion)   
 
 <img src="https://github.com/SaoYan/Attention-Skin/blob/master/assets/network.png" alt="network" width="500">  
 
