@@ -17,6 +17,7 @@ Updates:
 
 If you use the code for your own reasearch, please cite the following paper :)
 
+```bibtex
 @inproceedings{yan2019melanoma,  
   title={Melanoma Recognition via Visual Attention},  
   author={Yan, Yiqi and Kawahara, Jeremy and Hamarneh, Ghassan},  
@@ -25,6 +26,7 @@ If you use the code for your own reasearch, please cite the following paper :)
   year={2019},  
   organization={Springer}  
 }  
+```
 
 [Project webpage](https://saoyan.github.io/projects/2019-03-07-attention-skin-lesion)   
 
